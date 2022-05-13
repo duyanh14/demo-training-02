@@ -1,0 +1,15 @@
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\obj\Debug\net6.0\csharp-t6.csproj.AssemblyReference.cache
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\obj\Debug\net6.0\csharp-t6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\obj\Debug\net6.0\csharp-t6.AssemblyInfoInputs.cache
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\obj\Debug\net6.0\csharp-t6.AssemblyInfo.cs
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\obj\Debug\net6.0\csharp-t6.csproj.CoreCompileInputs.cache
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\bin\Debug\net6.0\csharp-t6.exe
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\bin\Debug\net6.0\csharp-t6.deps.json
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\bin\Debug\net6.0\csharp-t6.runtimeconfig.json
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\bin\Debug\net6.0\csharp-t6.dll
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\bin\Debug\net6.0\csharp-t6.pdb
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\obj\Debug\net6.0\csharp-t6.dll
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\obj\Debug\net6.0\refint\csharp-t6.dll
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\obj\Debug\net6.0\csharp-t6.pdb
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\obj\Debug\net6.0\csharp-t6.genruntimeconfig.cache
+D:\Unity3DVN\demo-training-02\csharp-t6\csharp-t6\obj\Debug\net6.0\ref\csharp-t6.dll
